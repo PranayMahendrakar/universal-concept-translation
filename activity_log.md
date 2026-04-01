@@ -8,3 +8,4 @@
 - [2026-04-01T08:46:51Z] perf: optimize loop for better performance
 - [2026-04-01T15:09:27Z] perf: optimize loop for better performance
 - [2026-04-01T12:34:42Z] style: apply consistent code formatting
+- [2026-04-01T10:21:21Z] feat: add helper utility function
